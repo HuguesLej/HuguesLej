@@ -9,6 +9,8 @@
 [![Badge7](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat&logoWidth=30)](https://github.com/HuguesLej)
 [![Badge7](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat&logoWidth=30)](https://github.com/HuguesLej)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HuguesLej&theme=midnight-purple)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuguesLej&show_icons=true&theme=midnight-purple)](https://github.com/HuguesLej)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuguesLej&layout=compact&theme=midnight-purple)](https://github.com/HuguesLej)
