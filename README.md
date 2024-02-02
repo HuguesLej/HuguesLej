@@ -17,8 +17,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018d3de3-2c8b-4a5b-921a-643eb568148d.svg)](https://wakatime.com/@018d3de3-2c8b-4a5b-921a-643eb568148d)
 
-<!-- ![](https://komarev.com/ghpvc/?username=HuguesLej&color=blueviolet&abbreviated=true)-->
-[![](https://visitcount.itsvg.in/api?id=HuguesLej&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/HuguesLej)
+<!-- ![](https://komarev.com/ghpvc/?username=HuguesLej&color=blueviolet&abbreviated=true) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=HuguesLej&label=Profile%20Views&color=6&icon=5&pretty=true)](https://github.com/HuguesLej) -->
 
 <!--
 **HuguesLej/HuguesLej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
