@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HuguesLej&theme=midnight-purple)](https://github.com/HuguesLej)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuguesLej&show_icons=true&theme=midnight-purple)](https://github.com/HuguesLej)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuguesLej&show_icons=true&theme=midnight-purple&langs_count=20)](https://github.com/HuguesLej)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuguesLej&layout=compact&theme=midnight-purple)](https://github.com/HuguesLej)
 
