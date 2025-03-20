@@ -11,9 +11,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HuguesLej&theme=midnight-purple)](https://github.com/HuguesLej)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuguesLej&show_icons=true&theme=midnight-purple&langs_count=20)](https://github.com/HuguesLej)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuguesLej&show_icons=true&theme=midnight-purple)](https://github.com/HuguesLej)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuguesLej&layout=compact&theme=midnight-purple)](https://github.com/HuguesLej)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuguesLej&layout=compact&theme=midnight-purple&langs_count=20)](https://github.com/HuguesLej)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018d3de3-2c8b-4a5b-921a-643eb568148d.svg)](https://wakatime.com/@018d3de3-2c8b-4a5b-921a-643eb568148d) -->
 
